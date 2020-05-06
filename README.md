@@ -1,4 +1,5 @@
 # snake-water-gun
+#Description
 Game Project using Python
 
 We have all play the game snake-water-gun in the childhood
@@ -30,12 +31,6 @@ python3 and random module
 import random
 
 Author
-
-Name = Manisha Jaiswal
-
-Class = MCA
-
-you can use this code for any purpose
 
 Name = Manisha Jaiswal
 
