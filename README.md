@@ -1,5 +1,5 @@
 # snake-water-gun
-#Description
+
 Game Project using Python
 
 We have all play the game snake-water-gun in the childhood
